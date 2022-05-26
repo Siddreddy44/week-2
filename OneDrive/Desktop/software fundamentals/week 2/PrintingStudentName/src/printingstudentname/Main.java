@@ -28,6 +28,7 @@ public class Main {
             System.out.println(list[i].getName() + list[i].getAge());
             //now we need to pull
             //now we fetch
+            // this is branch parttime
             
         }
     }
